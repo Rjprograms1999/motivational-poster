@@ -16,9 +16,12 @@ body {
   text-align: center;
   width: 50%;
   margin-left: 25%;
-  font-family: "Libre Baskerville", serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 
 .poster-img {
   width: 100%;
+  border: 4px solid black;
 }
